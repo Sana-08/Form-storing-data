@@ -1,0 +1,45 @@
+#container{
+    height: 18rem;
+    width: 20rem;
+    border: 1px solid black;
+}
+
+h2{
+    font-size: 2rem;
+    margin-left: 1rem;
+}
+
+form label{
+    font-size: 1.4rem;
+    margin-left: 1rem;
+}
+
+.content{
+    height: 1.8rem;
+    width: 13rem;
+    margin-left: 1rem;
+}
+
+#btn{
+    height: 2.5rem;
+    width: 6rem;
+    margin-top: 1rem;
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 0.7rem;
+    background: black;
+    color: white;
+    margin-left: 1rem;
+}
+
+#btn:hover{
+    cursor: pointer;
+}
+
+.new{
+    margin-top: 6rem;
+    height: 18rem;
+    width: 20rem;
+    border: 1px solid black;
+    overflow-y: scroll;
+}
